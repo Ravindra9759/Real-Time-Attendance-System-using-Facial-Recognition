@@ -23,20 +23,20 @@ _________________________________________________
 _________________________________________________
 
 ## 📂 Project Structur
-________________________________________________________________________
-| ├── Images                # Stores face images for training           |
-| |-- __pycache__           #                                           |
-| ├── data                  # Trained model files                       |
-| ├── Attendance.csv        # CSV logs of attendance                    |
-| ├── main.py               # GUI interface           |
-| ├── Student.py            # fill the student deatails files           |
-| ├── attendance.py         # Real-time recognition and logging         |
-| ├── classifier.xml        # Genrate the a classifier                  |
-| ├── developer.py          # create a developer page 
-| ├── face_recognition.py   # Real-time recognition and logging
+__________________________________________________________________________________________________
+| ├── Images                # Stores face images for training                                     |
+| |-- __pycache__           #                                                                     |
+| ├── data                  # Trained model files                                                 |
+| ├── Attendance.csv        # CSV logs of attendance                                              |
+| ├── main.py               # GUI interface                                                       |
+| ├── Student.py            # fill the student deatails files                                     |
+| ├── attendance.py         # Real-time recognition and logging                                   |
+| ├── classifier.xml        # Genrate the a classifier                                            |
+| ├── developer.py          # create a developer page                                             |   
+| ├── face_recognition.py   # Real-time recognition and logging                                   |
 | ├── haarcascade_fratalface_default.xml
-| ├── help.py
-| ├── login.py
-| ├── train.py
-| └── README.md             # Project documentation                     |
-|_______________________________________________________________________|
+| ├── help.py               # Provides user guidance, error explanations, and usage instructions  |
+| ├── login.py              # Handles user authentication and access control                      |
+| ├── train.py              # Script to train face recognizer                                     |
+| └── README.md             # Project documentation                                               |
+|_________________________________________________________________________________________________|
