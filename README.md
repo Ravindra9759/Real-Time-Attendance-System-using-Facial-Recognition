@@ -22,6 +22,8 @@ _________________________________________________
 | Version Control  | Git & GitHub               |
 _________________________________________________
 
+##📁 Project Directory
+
 📁 Project Root
 ├── 📁 Images                          # Stores face images for training
 ├── 📁 __pycache__                    # Python cache directory (auto-generated)
