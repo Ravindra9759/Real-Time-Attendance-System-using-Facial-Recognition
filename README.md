@@ -24,8 +24,10 @@ _________________________________________________
 
 ## 📂 Project Structur
 __________________________________________________________________________________________________
-| ├── Images                # Stores face images for training                                     |
-| |-- __pycache__           #                                                                     |
+| ├── Images                # Stores face images for training 
+|
+| |-- __pycache__           # 
+|
 | ├── data                  # Trained model files                                                 |
 | ├── Attendance.csv        # CSV logs of attendance                                              |
 | ├── main.py               # GUI interface                                                       |
@@ -41,23 +43,7 @@ ________________________________________________________________________________
 | └── README.md             # Project documentation                                               |
 |_________________________________________________________________________________________________|
 
-📁 Project Directory Overview
-|  |  | 
-| Images/ |  | 
-| __pycache__/ |  | 
-| data/ |  | 
-| Attendance.csv |  | 
-| main.py |  | 
-| Student.py |  | 
-| attendance.py |  | 
-| classifier.xml |  | 
-| developer.py |  | 
-| face_recognition.py |  | 
-| haarcascade_fratalface_default.xml |  | 
-| help.py |  | 
-| login.py |  | 
-| train.py |  | 
-| README.md |  | 
+
 
 
 
