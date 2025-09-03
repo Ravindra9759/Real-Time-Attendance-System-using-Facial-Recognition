@@ -40,3 +40,26 @@ ________________________________________________________________________________
 | ├── train.py              # Script to train face recognizer                                     |
 | └── README.md             # Project documentation                                               |
 |_________________________________________________________________________________________________|
+
+
+
+## 📁 Project Directory Overview
+|  |  | 
+| Images/ |  | 
+| __pycache__/ |  | 
+| data/ |  | 
+| Attendance.csv |  | 
+| main.py |  | 
+| Student.py |  | 
+| attendance.py |  | 
+| classifier.xml |  | 
+| developer.py |  | 
+| face_recognition.py |  | 
+| haarcascade_fratalface_default.xml |  | 
+| help.py |  | 
+| login.py |  | 
+| train.py |  | 
+| README.md |  | 
+
+
+
