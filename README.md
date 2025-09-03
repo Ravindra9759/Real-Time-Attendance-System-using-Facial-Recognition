@@ -24,10 +24,8 @@ _________________________________________________
 
 ## 📂 Project Structur
 __________________________________________________________________________________________________
-| ├── Images                # Stores face images for training 
-|
-| |-- __pycache__           # 
-|
+| ├── Images                # Stores face images for training                                     |
+| |-- __pycache__           #                                                                     |
 | ├── data                  # Trained model files                                                 |
 | ├── Attendance.csv        # CSV logs of attendance                                              |
 | ├── main.py               # GUI interface                                                       |
@@ -43,7 +41,22 @@ ________________________________________________________________________________
 | └── README.md             # Project documentation                                               |
 |_________________________________________________________________________________________________|
 
-
+📁 Project Root
+├── 📁 Images                          # Stores face images for training
+├── 📁 __pycache__                    # Python cache directory (auto-generated)
+├── 📁 data                           # Trained model files
+├── 📄 Attendance.csv                 # CSV logs of attendance
+├── 📄 main.py                        # GUI interface
+├── 📄 Student.py                     # Fill the student details
+├── 📄 attendance.py                  # Real-time recognition and logging
+├── 📄 classifier.xml                 # Generated classifier for face recognition
+├── 📄 developer.py                   # Developer information page
+├── 📄 face_recognition.py            # Real-time recognition and logging
+├── 📄 haarcascade_fratalface_default.xml  # Haar cascade for facial detection
+├── 📄 help.py                        # User guidance and usage instructions
+├── 📄 login.py                       # User authentication and access control
+├── 📄 train.py                       # Script to train face recognizer
+└── 📄 README.md                      # Project documentation
 
 
 
