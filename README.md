@@ -1,4 +1,8 @@
 ## 🎯 Real-Time-Attendance-System-using-Facial-Recognition
+
+[![forthebadge made-with-python](http://ForTheBadge.com/images/badges/made-with-python.svg)](https://www.python.org/)                 
+[![Python 3.9](https://img.shields.io/badge/python-3.9-blue.svg)](https://www.python.org/downloads/release/python-390/)
+
 A project aimed at creating a facial recognition attendance system
 The Real-Time Attendance System using Facial Recognition is an automated solution designed to replace traditional manual or biometric attendance methods. The system leverages computer vision and deep learning algorithms to detect and recognize faces in real time through a camera feed. Once a registered face is identified, the system automatically marks attendance with the exact date and time, ensuring accuracy and efficiency. It also maintains a secure database for storing attendance records, which can be easily accessed for reporting and analysis. This approach minimizes proxy attendance, enhances security, and saves time in organizational and educational environments.
 
